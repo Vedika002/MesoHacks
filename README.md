@@ -1,4 +1,4 @@
-Authors - Aryan Tyagi, Prakhar 
+Authors - Vanshika Srivastava, Vedika Chauhan 
 
 FOR  BACKGROUND  FUNCTIONALITY,  OPEN THIS WEBSITE IN A SEPARATE WINDOW AND DO WHATEVER YOU WANT AFTER HOVERING ON THE MINIMISED BROWSER ICON THROUGH THE TASKBAR
 
@@ -103,3 +103,6 @@ In line 308, window.requestAnimationFrame() method tells the browser that you wi
 
 
 Code in between line 312 to 333 is to fulfills the purpose of ON/OFF switch for the camera, where OFF refreshes the website and ON asks for the camera permission & starts the on-screen timer.
+
+Thank You 
+This is an effort from our team DOTDEVELOPING
